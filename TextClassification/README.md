@@ -55,3 +55,5 @@ Run below to start serving
 ### Test locally
 
 Open a browser, type url ```http://localhost:5000/``` to enter into home page if using Linux system. If using maxOS, replace ```localhost``` with the ip address of the virtual machine that runs Docker. To get this ip, run ```docker-machine ip [machine name]```.
+
+![homepage](img/home.png)
