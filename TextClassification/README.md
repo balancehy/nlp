@@ -64,6 +64,6 @@ Upload text file for classification
 
 ![before prediction](img/predict1.png)
 
-After hit upload buttion
+After hit upload button
 
 ![after prediction](img/predict2.png)
