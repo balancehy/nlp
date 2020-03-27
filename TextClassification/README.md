@@ -56,4 +56,14 @@ Run below to start serving
 
 Open a browser, type url ```http://localhost:5000/``` to enter into home page if using Linux system. If using maxOS, replace ```localhost``` with the ip address of the virtual machine that runs Docker. To get this ip, run ```docker-machine ip [machine name]```.
 
-![homepage](img/home.png)
+The Home page
+
+![homepage](img/Home.png)
+
+Upload text file for classification
+
+![before prediction](img/predict1.png)
+
+After hit upload buttion
+
+![after prediction](img/predict2.png)
