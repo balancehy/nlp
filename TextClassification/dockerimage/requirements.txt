@@ -7,7 +7,7 @@ Flask-WTF==0.14.3
 Jinja2==2.11.1
 jsonschema==3.0.0
 nltk==3.4.5
-numpy==1.16.1
+numpy==1.22.0
 picklable-itertools==0.1.1
 pickleshare==0.7.5
 scikit-learn==0.20.3
